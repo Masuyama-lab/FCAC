@@ -1,11 +1,9 @@
 numpy
 scipy
 pandas
-matplotlib
 seaborn
 scikit-learn
 networkx
-river
 tqdm
 ujson
 
