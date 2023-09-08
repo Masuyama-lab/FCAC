@@ -3,7 +3,7 @@
 (c) 2023 Naoki Masuyama
 
 Python: <br>
-Run "mainFCAC.py", or visit [Code Ocean](https://doi.org/10.24433/CO.0532014.v1){:target="_blank"}
+Run "mainFCAC.py", or visit [Code Ocean](https://doi.org/10.24433/CO.0532014.v1)
 
 MATLAB: <br>
 Run "mainFCAC.m"
