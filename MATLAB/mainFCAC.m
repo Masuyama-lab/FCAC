@@ -53,7 +53,7 @@ for k = 1:numClients
     clientNet{k}.sigma = [];           % sigma defined by initial nodes
 end
 
-% for Server CAplus
+% for Server CAE
 serverNet.numNodes    = 0;   % the number of nodes
 serverNet.weight      = [];  % node position
 serverNet.CountNode = [];    % winner counter for each node
